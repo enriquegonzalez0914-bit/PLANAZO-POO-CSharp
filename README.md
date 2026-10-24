@@ -168,18 +168,29 @@ De esta manera, el sistema puede incorporar nuevos eventos de forma más sencill
 En esta sección se adjuntan las capturas de pantalla de las pruebas realizadas:
 
 - Consulta de eventos.
- <img width="274" height="521" alt="image" src="https://github.com/user-attachments/assets/fa20f092-01f1-46be-8f3c-f9046fe0071c" />
+  <img width="274" height="521" alt="image" src="https://github.com/user-attachments/assets/fa20f092-01f1-46be-8f3c-f9046fe0071c" />
+
 - Reserva válida.
   <img width="261" height="433" alt="image" src="https://github.com/user-attachments/assets/9da46640-80ed-40e2-80f8-1419e07ec669" />
 
 - Validación de cupos.
   <img width="246" height="503" alt="image" src="https://github.com/user-attachments/assets/1ed682ac-7558-4af3-b715-7dccbf9cace3" />
-- Validación de cantidad negativa.
   
+- Validación de cantidad negativa.
+  <img width="327" height="320" alt="image" src="https://github.com/user-attachments/assets/0d819d90-f5a6-4dca-946e-95d268682c21" />
+
 - Cancelación de reserva.
+  <img width="267" height="298" alt="image" src="https://github.com/user-attachments/assets/8e86e065-733f-44fb-86fd-1923fb9946e8" />
+
 - Cancelación repetida.
+  <img width="275" height="301" alt="image" src="https://github.com/user-attachments/assets/6a79f6e6-3cd2-4d88-93e0-cdf6a9749367" />
+
 - Consulta de evento inexistente.
+  <img width="260" height="262" alt="image" src="https://github.com/user-attachments/assets/61a4cd7c-9926-400d-931d-1006e54db971" />
+
 - Resumen de reservas.
+  <img width="254" height="307" alt="image" src="https://github.com/user-attachments/assets/e737b06c-a7ca-42c5-8395-5441aae13b9e" />
+
 
 ## 10. Autor
 
