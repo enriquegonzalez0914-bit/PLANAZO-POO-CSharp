@@ -63,7 +63,7 @@ Hereda de Evento y aumenta el precio base un 15 %.
 
 Hereda de Evento y aplica un descuento del 10 %.
 
-### EventoDeportivo
+### Evento Deportivo
 
 Es una clase adicional que hereda de Evento y aumenta el precio base un 20 %.
 
@@ -75,7 +75,7 @@ Representa a la persona que realiza las reservas.
 
 Relaciona al usuario con un evento y guarda la cantidad de entradas, el valor total y el estado de la reserva.
 
-### GestorReservas
+### Gestor de Reservas
 
 Administra los eventos y las reservas. También permite consultar eventos, crear reservas, cancelar reservas y mostrar el resumen.
 
