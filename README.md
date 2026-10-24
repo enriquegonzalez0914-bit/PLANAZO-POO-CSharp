@@ -168,12 +168,14 @@ De esta manera, el sistema puede incorporar nuevos eventos de forma más sencill
 En esta sección se adjuntan las capturas de pantalla de las pruebas realizadas:
 
 - Consulta de eventos.
-- <img width="274" height="521" alt="image" src="https://github.com/user-attachments/assets/fa20f092-01f1-46be-8f3c-f9046fe0071c" />
-<img width="245" height="515" alt="image" src="https://github.com/user-attachments/assets/2edb2580-fb0d-4fc4-80d5-cae8c752b6c8" />
-
+ <img width="274" height="521" alt="image" src="https://github.com/user-attachments/assets/fa20f092-01f1-46be-8f3c-f9046fe0071c" />
 - Reserva válida.
+  <img width="261" height="433" alt="image" src="https://github.com/user-attachments/assets/9da46640-80ed-40e2-80f8-1419e07ec669" />
+
 - Validación de cupos.
+  <img width="246" height="503" alt="image" src="https://github.com/user-attachments/assets/1ed682ac-7558-4af3-b715-7dccbf9cace3" />
 - Validación de cantidad negativa.
+  
 - Cancelación de reserva.
 - Cancelación repetida.
 - Consulta de evento inexistente.
