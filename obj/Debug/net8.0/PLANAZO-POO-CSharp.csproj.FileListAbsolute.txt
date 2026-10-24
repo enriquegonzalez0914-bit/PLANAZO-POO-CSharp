@@ -1,0 +1,14 @@
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.exe
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.deps.json
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.runtimeconfig.json
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.dll
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\bin\Debug\net8.0\PLANAZO-POO-CSharp.pdb
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.AssemblyInfoInputs.cache
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.AssemblyInfo.cs
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.csproj.CoreCompileInputs.cache
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.dll
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\refint\PLANAZO-POO-CSharp.dll
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.pdb
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\PLANAZO-POO-CSharp.genruntimeconfig.cache
+C:\Programas Sistemas\BACKUP KIKE\MEGA\PERSONAL\AMERICANA\2. SEMESTRE 2\PROFUNDIZACION .NET\Semana03_EnriqueGonzalez\PLANAZO-POO-CSharp\obj\Debug\net8.0\ref\PLANAZO-POO-CSharp.dll
